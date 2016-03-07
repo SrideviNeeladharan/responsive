@@ -54,7 +54,7 @@ header
   margin: 0;
   padding: 1.5em;
   height: 150px;
-  background: #85AB18 url(../images/interfaceImages/banner-background.png) no-repeat -200px: center;
+  background: #85AB18 url(../images/interfaceImages/banner-background.png) no-repeat -200px; center;
   background-size: cover;
   -webkit-background-size:cover;
   -moz-background-size: cover;
